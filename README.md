@@ -1,46 +1,44 @@
-# Hi, I'm Wangqipin
+# Wangqipin
 
-## 🧠 Cognitive Builder | Long-term Thinker
+## 🧠 Cognitive Infrastructure Builder
 
-研究方向：
-- 哲学 / 思想史
-- 经济与社会结构
-- 心理机制与认知模型
-- 个人成长系统
-
----
-
-## 📚 Current Focus
-
-- 构建个人认知操作系统
-- 长期主义内容资产化
-- 思维模型结构整理
+研究领域：
+- 哲学与思想史
+- 社会结构与经济逻辑
+- 心理机制与认知偏差
+- 长期主义与个体成长系统
 
 ---
 
-## 🗂 Projects
+## 🎯 Mission
 
-### 1. Cognitive System
-个人认知框架整理仓库
+构建个人认知操作系统  
+将碎片知识结构化  
+将思考转化为长期资产  
 
-### 2. Essays
-长期主义写作与思想输出
+---
 
-### 3. Reading Notes
+## 🗂 Ongoing Projects
+
+### Cognitive System
+个人思维模型与结构框架
+
+### Essays
+长期主义写作输出
+
+### Reading Notes
 经典文本结构化拆解
 
 ---
 
-## 🔗 Elsewhere
+## 📈 Operating Principle
 
-- YouTube:
-- Blog:
-- Twitter:
+- 结构 > 观点
+- 系统 > 情绪
+- 长期复利 > 短期流量
+- 输出驱动输入
 
 ---
 
-## ⚙️ System Principle
-
-> 长期主义 > 情绪主义  
-> 结构 > 观点  
-> 可复利内容 > 短期流量
+## 🔗 Building in Public
+持续构建中。
