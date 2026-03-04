@@ -1,4 +1,5 @@
 # Wangqipin
+我的敌人是一身劣习的自己 是无知的自己 重新把自己养一遍
 
 ## 🧠 Cognitive Infrastructure Builder
 
